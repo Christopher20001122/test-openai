@@ -15,17 +15,17 @@ Accept: application/json
 Content-Type: application/json
 
 {
-  "item": "pizza"
+  "item": "pilas"
 }
 
 ###
 
-POST http://127.0.0.1:8000/inference
+POST http://127.0.0.1:1008/inference
 Accept: application/json
 Content-Type: application/json
 
 {
-  "item": "Hotdog"
+  "item": "pilas"
 }
 
 
